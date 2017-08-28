@@ -9,3 +9,5 @@ La applicación debe tener un login y registro, donde se puede elegir los ingred
 * Login/Registro           1p
 * Guardar Pastel           1p
 * Mostrar Pastel           1p
+
+...
